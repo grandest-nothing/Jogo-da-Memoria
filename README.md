@@ -1,7 +1,7 @@
 <h1 align="center"> WRECKED MEMORY </h1>
 
 <h3 align="center">
-  <a href="https://cronometro-iota.vercel.app">Acesse Meu App</a>
+  <a href="https://jogo-da-memoria-iota-umber.vercel.app">Acesse Meu App</a>
 </h3>
 
 <p align="center">
